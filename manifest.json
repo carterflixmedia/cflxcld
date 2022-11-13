@@ -1,7 +1,7 @@
 {
   "name": "CarterflixCLOUD",
   "short_name": "CarterflixCLOUD",
-  "start_url": "/",
+  "start_url": "https://www.carterflix.com/cloud/Default.aspx",
   "description": "Soft and fluffy.",
   "lang": "en-US",
   "related_applications": [
