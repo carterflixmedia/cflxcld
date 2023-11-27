@@ -1,0 +1,4 @@
+Available actions: disable_aem, offline_compaction, enable_aem2
+Available actions: disable_aem, offline_compaction, enable_aem3
+Available actions: disable_aem, offline_compaction, enable_aem4
+Available actions: disable_aem, offline_compaction, enable_aem5
