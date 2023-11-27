@@ -1,4 +1,1 @@
-Available actions: disable_aem, offline_compaction, enable_aem2
-Available actions: disable_aem, offline_compaction, enable_aem3
-Available actions: disable_aem, offline_compaction, enable_aem4
-Available actions: disable_aem, offline_compaction, enable_aem5
+Available actions: spsaniion, spsaniioff, spsanon, spsanoff, spsideon, spsideoff, spfronton, spfrontoff, spbackon, spbackoff, spfanon, spfanoff, spgwon, spgwoff
